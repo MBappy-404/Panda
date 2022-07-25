@@ -1,0 +1,21 @@
+body{
+     margin: 0;
+     padding: 0;
+     font-family: sans-serif;
+}
+
+
+section {
+     margin-bottom: 50px;
+ }
+ 
+ .panda-bg-info{
+     background-color: #fceae8 !important;
+     
+ }
+ 
+
+ .catagories img{
+     width: 100px;
+ }
+ 
